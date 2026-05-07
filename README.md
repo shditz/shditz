@@ -141,7 +141,7 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shditzE&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -151,7 +151,7 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shditz/shditz/output/snake.svg" alt="Snake animation" />
 
 </div>
 
