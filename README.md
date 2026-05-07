@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shditz/shditz/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/shditz/shditz/output/github-snake-dark.svg" />
 
 </div>
 
