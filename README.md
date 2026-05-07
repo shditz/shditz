@@ -1,180 +1,151 @@
-# <div align="center">Hi 👋, I'm Aditya Kurniawan</div>
+<div align="center">
 
-<p align="center">
-  <strong>Fullstack Developer • Web Developer • Backend Developer • Mobile Developer</strong>
-</p>
+# Aditya Kurniawan
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-0EA5E9?style=for-the-badge" />
-</p>
+### Fullstack Developer • Backend Engineer • Mobile Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=650&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Creating+responsive+mobile+experiences;Always+learning+new+technologies" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+Modern+Web+Applications;Designing+Scalable+Backend+Systems;Creating+Responsive+Mobile+Apps;Crafting+Clean+and+Interactive+UI;Always+Learning+New+Technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-Development-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-111827?style=for-the-badge&logo=node.js&logoColor=green"/>
+<img src="https://img.shields.io/badge/Mobile-Development-0EA5E9?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+</div>
 
 ---
 
-## ✨ About Me
+# 🚀 About Me
 
-I’m Aditya Kurniawan, a developer who focuses on building modern, responsive, scalable, and maintainable applications.
+> Focused on building scalable, responsive, high-performance, and modern digital products.
+
+- 🌐 Building modern web applications
+- ⚙️ Designing backend systems & REST APIs
+- 📱 Developing cross-platform mobile apps
+- 🎨 Creating clean and responsive UI/UX
+- 🚀 Building fullstack applications from scratch
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-| Area | What I Do |
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,vite" />
+
+<br/>
+<br/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,mysql,postgresql,mongodb,firebase" />
+
+<br/>
+<br/>
+
+## Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br/>
+<br/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,postman" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shditz&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shditz&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shditz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shditz/shditz/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 💻 Development Focus
+
+<div align="center">
+
+| Focus Area | Description |
 |---|---|
-| **Frontend** | Clean UI, responsive layouts, interactive components, performance optimization |
-| **Backend** | REST API, authentication, database design, business logic, system architecture |
-| **Mobile** | Cross-platform app development, mobile-first UI, app integration |
-| **Fullstack** | End-to-end product development from interface to deployment |
-
-</div>
-
-I enjoy building products that are not only functional, but also fast, neat, and enjoyable to use.
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><strong>Frontend</strong></summary>
-<br />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
-</details>
-
-<details>
-<summary><strong>Backend</strong></summary>
-<br />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,mysql,postgresql,mongodb,firebase" />
-</p>
-
-</details>
-
-<details>
-<summary><strong>Mobile</strong></summary>
-<br />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-</details>
-
-<details>
-<summary><strong>Tools & Workflow</strong></summary>
-<br />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman" />
-</p>
-
-</details>
-
----
-
-## 📌 What I Build
-
-- Modern landing pages
-- Company profile websites
-- Dashboard admin panels
-- E-commerce systems
-- REST API services
-- Authentication systems
-- Cross-platform mobile apps
-- Custom fullstack solutions
-
----
-
-## 🚀 Current Focus
-
-- Building scalable fullstack applications
-- Improving backend architecture
-- Creating better responsive UI/UX
-- Learning advanced mobile development
-- Optimizing performance and maintainability
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shditz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shditz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shditz&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shditz&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🔥 More Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shditz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityarabbyoka3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 Quote
-
-<div align="center">
-
-> “Good software is not just built to work. It is built to last, scale, and feel effortless.”
+| Frontend Development | Interactive UI, responsive design, performance optimization |
+| Backend Development | REST API, authentication, scalable architecture |
+| Mobile Development | Cross-platform applications & responsive mobile UI |
+| Fullstack Engineering | End-to-end application development |
 
 </div>
 
 ---
 
+# 🌐 Connect With Me
+
 <div align="center">
 
-### Thanks for visiting my profile
+<a href="https://github.com/shditz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:adityarabbyoka3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy building systems that are not only functional, but also clean, scalable, and enjoyable to use.
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shditz&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+
+### Thanks for visiting my profile 👨‍💻
 
 </div>
