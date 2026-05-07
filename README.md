@@ -54,15 +54,15 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shditz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shditz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shditz&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -72,7 +72,7 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shditz&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -121,7 +121,7 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/shditz" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -129,7 +129,7 @@ I always try to improve my skills and explore new technologies to create better 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:adityarabbyoka3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -141,7 +141,7 @@ I always try to improve my skills and explore new technologies to create better 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shditzE&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shditz&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -171,6 +171,6 @@ I always try to improve my skills and explore new technologies to create better 
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shditz&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 
 </div>
