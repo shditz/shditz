@@ -102,77 +102,34 @@ I enjoy building products that are not only functional, but also fast, neat, and
 
 ---
 
-## 🧩 Featured Work
+## 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Web Development</h3>
-      <p align="center">
-        Modern websites, dashboard systems, landing pages, and portfolio projects.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Backend Development</h3>
-      <p align="center">
-        REST APIs, auth systems, database structure, and scalable server logic.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mobile Development</h3>
-      <p align="center">
-        Cross-platform apps with responsive and intuitive mobile interfaces.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Fullstack Solutions</h3>
-      <p align="center">
-        End-to-end product development with clean architecture and polished UI.
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Highlights
-
-### 🏆 Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shditz&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
-### 📈 Activity Graph
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shditz&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<!--
-Optional stats cards.
-Keep these only if the external endpoint is stable for you.
-If a card fails, your README will still look clean without them.
--->
-<!--
-### 📌 Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shditz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shditz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shditz&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shditz&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
--->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shditz&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 🔥 More Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
 
 ---
 
@@ -180,9 +137,9 @@ If a card fails, your README will still look clean without them.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg" />
-    <img alt="github-snake" src="./output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shditz/shditz/main/dist/github-snake.svg" />
   </picture>
 </p>
 
